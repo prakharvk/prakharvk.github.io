@@ -1,1 +1,1 @@
-# weblibox-mobile
+Mobile view of Weblibox
